@@ -1,0 +1,12 @@
+practice push
+
+touch - create documents, files, etc.
+git init - initialize git directory
+git init <folder> - initialize a specific git folder
+cd <folder> - start working from inside the a specific folder
+git status - look at what files aren't yet added in the active git directory
+git add <file> - add the file specifically
+git commit "file" - get a big honking comment file"
+git commit -m "message" - commit the same message to all files
+git remote add origin (Repository website) - Link to a Github repository
+git push -u origin master - I'm guessing, push the whole master directory in one go?
